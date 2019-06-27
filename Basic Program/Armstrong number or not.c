@@ -15,11 +15,11 @@ int main()
 	}
 	if(num==arm)
 	{
-		printf("%d is Amstrong no",num);
+		printf("%d is Amstrong number",num);
 	}
 	else
 	{
-		printf("%d is not Amstrong no",num);
+		printf("%d is not Amstrong number",num);
 	}
 	return 0;
 }
